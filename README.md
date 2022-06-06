@@ -27,7 +27,6 @@
 6. Populate the database
     ```sh
     sail artisan key:generate
-    sail artisan vip:migrate # choose development
     ```
 
 Containers should be up and running. If you have not changed anything in the .env file, the site should be available at http://localhost:80
@@ -83,5 +82,3 @@ Containers should be up and running. If you have not changed anything in the .en
 Please do not use any additional packages with similar ready-made solutions. The tasks are not complicated, they can be solved with a good skill.
 
 <span style="color:red">There is no limit to whether you will do tasks from the interface or just as api. You can do whatever you want.</span>
-
-
