@@ -24,7 +24,7 @@
     ```
     sail up
     ```
-6. Populate the database
+6. Generate key
     ```sh
     sail artisan key:generate
     ```
